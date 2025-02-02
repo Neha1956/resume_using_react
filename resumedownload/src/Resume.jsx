@@ -52,7 +52,7 @@ const Resume = () => {
     const options = {
       filename: 'resume.pdf',
       image: { type: 'jpeg', quality: 0.98 },
-      html2canvas: { scale: 1.5 }, // Higher scale for better quality
+      html2canvas: { scale: 2 }, // Higher scale for better quality
       jsPDF: { unit: 'in', format: 'letter', orientation: 'portrait' }
     };
     html2pdf().from(element).set(options).save();
@@ -84,7 +84,7 @@ const Resume = () => {
        
         <h5>Objective</h5>
         <hr />
-        <p>Aspiring MERN Stack Developer, currently in the final year of my Diploma in Computer Science. Passionate about building scalable web applications and continuously improving my skills in MongoDB, Express.js, React, and Node.js. Currently learning advanced concepts and best practices. Seeking an internship or entry-level job where I can apply my knowledge, gain real-world experience, and learn from industry professionals to grow into a proficient full-stack developer.</p>
+        <p>Aspiring MERN Stack Developer, currently in the final year of my Diploma in Computer Science. Passionate about building scalable web applications and continuously improving my skills in MongoDB, Express.js, React, and Node.js. Currently learning  Seeking an internship or entry-level job where I can apply my knowledge, gain real-world experience, and learn from industry professionals to grow into a proficient full-stack developer.</p>
 
         <h5> Education</h5>
         <hr/>

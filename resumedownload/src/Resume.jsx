@@ -77,7 +77,7 @@ const Resume = () => {
           <FaLinkedin /> </span><p> <a href="https://www.linkedin.com/in/neha-k-b28487278" target="_blank" rel="noopener noreferrer">LinkedIn</a>
           </p>
           <span>
-          <FaGithub /> </span><p><a href="https://github.com/testsgithubsrit" target="_blank" rel="noopener noreferrer">GitHub</a>
+          <FaGithub /> </span><p><a href="https://github.com/Neha1956" target="_blank" rel="noopener noreferrer">GitHub</a>
           </p>
         </div>
 
